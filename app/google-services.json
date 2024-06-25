@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315935705683",
+    "project_id": "value-diary-read-together",
+    "storage_bucket": "value-diary-read-together.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315935705683:android:a50d7a31358bf5694f54a6",
+        "android_client_info": {
+          "package_name": "com.example.valuediaryreadtogether"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8d_D1O-49trPvgwV44bq9M06HFN2sTXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
